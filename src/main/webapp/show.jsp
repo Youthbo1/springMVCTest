@@ -13,5 +13,8 @@
 </head>
 <body>
 ${name}
+
+${goods.name}</br>
+${goods.price}
 </body>
 </html>
